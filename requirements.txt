@@ -10,3 +10,5 @@ docx2txt>=0.8
 faiss-cpu>=1.7.4
 sentence-transformers>=2.2.2
 bcrypt>=4.1.0
+torch
+torchvision
